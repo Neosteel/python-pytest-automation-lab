@@ -1,0 +1,9 @@
+qa-venv/
+__pycache__/
+.pytest_cache/
+.vscode/
+reports/
+allure-results/
+allure-report/
+*.pyc
+.DS_Store
